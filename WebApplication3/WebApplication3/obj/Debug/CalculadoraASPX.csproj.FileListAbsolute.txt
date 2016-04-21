@@ -1,0 +1,6 @@
+C:\Users\Renan\Documents\Visual Studio 2010\Projects\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Renan\Documents\Visual Studio 2010\Projects\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Renan\Documents\Visual Studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Renan\Documents\Visual Studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Renan\Documents\Visual Studio 2010\Projects\WebApplication3\WebApplication3\bin\AjaxPro.dll
+C:\Users\Renan\Documents\Visual Studio 2010\Projects\WebApplication3\WebApplication3\obj\Debug\CalculadoraASPX.csprojResolveAssemblyReference.cache

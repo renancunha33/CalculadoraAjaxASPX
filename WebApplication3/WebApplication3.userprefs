@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="WebApplication3/CalculadoraASPX.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="/usr/bin/google-chrome-stable" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../../usr/lib/mono/4.5/Microsoft.Common.targets">
+    <Files>
+      <File FileName="WebApplication3/WebForm1.aspx" Line="4" Column="2" />
+      <File FileName="../../../../../usr/lib/mono/4.5/Microsoft.Common.targets" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
